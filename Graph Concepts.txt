@@ -1,0 +1,30 @@
+Graph Concepts for future reference
+
+A. Graph Representations: Adjacency Matrix, Adjacency List, Incidence Matrix
+
+B. Types of Graphs: Directed and Undirected Graphs, Weighted and Unweighted Graphs, Cyclic and Acyclic Graphs, Connected and Disconnected Graphs, Bipartite Graphs, Complete Graphs
+
+C. Graph Algorithms
+1. Traversal Algorithms: DFS, BFS
+2. Shortest Path Algorithms: Dijkstra's, Bellman-Ford, Floyd-Warshall
+3. Minimum Spanning Tree (MST) Algorithms: Prim's Algorithm, Kruskal's Algorithm
+4. Topological Sorting
+5. Strongly Connected Components (SCC)
+6. Graph Coloring
+7. Network Flow Algorithms: Ford-Fulkerson Algorithm, Edmonds-Karp Algorithm
+8. Cycle Detection: Union-Find Algorithm, DFS
+9. Eulerian and Hamiltonian Paths/Cycles
+10. Graph Matching: Maximum Bipartite Matching, Hungarian Algorithm
+
+D. Advanced Topics
+1. Planar Graphs
+2. Graph Isomorphism
+3. Dynamic Graph Algorithms
+4. Graph Databases
+
+E. Practical Applications
+1. Social Networks
+2. Computer Networks
+3. Geographical Information Systems (GIS)
+4. Scheduling Problems
+5. Recommendation Systems
