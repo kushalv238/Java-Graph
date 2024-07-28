@@ -1,6 +1,8 @@
 # Contributing to Graph Algorithms Library
 
-With a dream of adding this library to the official Java Collections Framework, I am keeping this project open to contributions ☁️✨. Got an idea for an awesome new feature? Found a bug that's been bugging you? Want to add some witty comments of your own? We'd love to hear from you!
+With a dream of adding this library to the official Java Collections Framework, I am keeping this project open to contributions ☁️✨. 
+
+Got an idea for an awesome new feature? Found a bug that's been bugging you? Want to add some witty comments of your own? We'd love to hear from you!
 
 ## How to Contribute
 
